@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="HeaderAppear">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/header</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="Spinner">
+        <item name="android:textColor">@color/header</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

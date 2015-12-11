@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FinalProjectCalculator</string>
+
+    <string name="hello_world">Steel Materials Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="PriceDisplay" > </string>
+    <string name="btnCalculate">Calculate Price</string>
+    <string name="menu">Welcome to my Metal Price Calculator App.  Which material would you like to work with?</string>
+    <string name="ironore">Iron Ore</string>
+    <string name="steel">Steel</string>
+    <string name="goldcoins">Gold Coins</string>
+    <string name="goldcoinCalc">Gold Coins Calculator</string>
+    <string name="ironoreCalc">Iron Ore Calculator</string>
+
+    <string-array name="steel_materials">
+        <item>St. Steel scrap, US, $ per gross ton</item>
+        <item>Shredded Scrap, US Midwest</item>
+        <item>Steel wire rod Price, $/mt</item>
+    </string-array>
+
+    <string-array name="goldcoins_materials">
+        <item>Krugerrand, wholesale</item>
+        <item>Maple Leaf, troy oz.</item>
+        <item>American Eagle, troy oz.</item>
+    </string-array>
+
+    <string-array name="ironore_materials">
+        <item>Iron Ore from China</item>
+        <item>Iron Ore from Tianjin</item>
+
+    </string-array>
+
+</resources>
